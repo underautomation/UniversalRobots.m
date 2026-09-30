@@ -1,0 +1,7 @@
+# Release artifacts
+*.zip
+
+# MATLAB
+*.asv
+*.autosave
+slprj/
